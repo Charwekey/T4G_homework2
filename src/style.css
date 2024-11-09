@@ -1,0 +1,44 @@
+.body-container {
+    background-color:white;
+    padding: 30px;
+    margin: 100px;
+    justify-content: space-evenly;
+    justify-content: center;
+    border: 3px solid ; 
+    box-shadow: 100%;
+    
+
+}
+
+.cv-img{
+    width:  200px;
+    height: 200px;
+    border-radius: 100px;
+
+}
+
+.info-p{
+    display: flex;
+    justify-content: flex-start ;
+    flex-direction: column;
+    
+}
+
+.name-h1{
+    display: flex;
+    background-color: beige;
+    justify-content: center;
+}
+
+h3{
+    color: blue;
+}
+
+.cover-img{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    /* flex-wrap: wrap; */
+    border-radius: 30px;
+
+}
